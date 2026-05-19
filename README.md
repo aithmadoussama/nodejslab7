@@ -15,6 +15,8 @@ Jest
 Supertest
 
 ## 📂 Organisation du projet
+
+````
 src/
 ├── config/
 ├── controllers/
@@ -28,6 +30,7 @@ src/
 ├── app.ts
 └── server.ts
 
+````
 
 ## 🔧 Mise en place du projet
 Étape 1 : Récupération du projet
