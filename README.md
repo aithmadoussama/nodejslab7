@@ -79,6 +79,7 @@ POST	/api/v1/users/signin
 
 ## 📌 Aperçu du fonctionnement
 
+https://github.com/user-attachments/assets/a5b46448-d16d-42b7-bb9d-ac0226993006
 
 
 ## 👨‍🎓 Réalisation
