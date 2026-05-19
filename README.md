@@ -77,28 +77,6 @@ POST	/api/v1/users/signup
 POST	/api/v1/users/signin
 ````
 
-## 📚 Documentation de l’API
-
-Swagger est disponible à l’adresse suivante :
-
-http://localhost:3000/api-docs
-
-
-## ✅ Exécution des tests
-
-Pour lancer les tests automatisés :
-
-npm run test
-🎯 Fonctionnalités principales
-Gestion des livres
-Gestion des auteurs
-Gestion des utilisateurs
-Authentification sécurisée avec JWT
-Validation des données
-Documentation interactive avec Swagger
-Architecture RESTful
-
-
 ## 📌 Aperçu du fonctionnement
 
 
