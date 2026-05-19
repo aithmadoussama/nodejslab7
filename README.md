@@ -3,6 +3,9 @@
 Application backend développée avec Node.js, Express et MongoDB permettant la gestion des ouvrages, des auteurs et des emprunts dans une bibliothèque.
 
 ## 🛠️ Outils et technologies
+
+````
+
 Node.js
 Express.js
 TypeScript
@@ -13,6 +16,8 @@ JSON Web Token (JWT)
 Swagger UI
 Jest
 Supertest
+
+````
 
 ## 📂 Organisation du projet
 
@@ -33,6 +38,8 @@ src/
 ````
 
 ## 🔧 Mise en place du projet
+
+````
 Étape 1 : Récupération du projet
 git clone <adresse-du-repository>
 cd gestion-biblio-api
@@ -46,6 +53,7 @@ PORT=3000
 MONGO_URI=mongodb://127.0.0.1:27017/gestion_bibliotheque
 NODE_ENV=development
 
+```` 
 ## ▶️ Exécution de l’application
 Démarrage en mode développement
 npm run dev
@@ -56,6 +64,8 @@ npm start
 
 
 ## 📡 Endpoints disponibles
+
+````
 Méthode	URL
 GET	/api/v1/authors
 POST	/api/v1/authors
@@ -65,6 +75,7 @@ GET	/api/v1/loans
 POST	/api/v1/loans
 POST	/api/v1/users/signup
 POST	/api/v1/users/signin
+````
 
 ## 📚 Documentation de l’API
 
@@ -90,8 +101,8 @@ Architecture RESTful
 
 ## 📌 Aperçu du fonctionnement
 
-Le projet expose une API REST permettant aux utilisateurs d’effectuer différentes opérations CRUD sur les ressources de la bibliothèque à travers des requêtes HTTP.
 
-👨‍🎓 Réalisation
+
+## 👨‍🎓 Réalisation
 
 AIT HMAD OUSSAMA
